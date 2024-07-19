@@ -1,8 +1,8 @@
 # Mikroprocesor-programowy  /  Microprocessor  
 
 # Spis treści  / Contents
-- [Projekt  /  Project](#project)
 - [Instrukcja laboratoryjna](#instrukcja)
+- [Projekt  /  Project](#project)
 
 # Instrukcja laboratoryjna
 
